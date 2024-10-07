@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>World's Best Website</title>
+  </head>
+  <body>
+    <h1>
+      Task
+    </h1>
+    <p>
+      Contribute to this repository.
+      <ol>
+        <li>Go to the repository</li>
+        <li>Create a file <strong>24Bcs10006.html</strong></li>
+        <li>Pranav Bharadwaj.</li>
+      </ol>
+    </p>
+  </body>
+</html>
